@@ -4,9 +4,9 @@ Name of Project: Weather App
 Overview: Developed a weather app that fetches weather data from an API and displays it to users based on their location or a location they input.Used HTML, CSS,JavaScript, and AJAX for this project.
 
 Features:
-<br>Real-Time Weather Data: Fetches current weather data based on user-input city names.
+<br>Real-Time Weather Data: Fetches current weather data based on user location or a location they input.
 <br>User-Friendly Interface: Simple and intuitive design for easy navigation.
-<br>Error Handling: Displays appropriate error messages for invalid city names or empty inputs.
+<br>Error Handling: Displays appropriate error messages for invalid city names.
 <br>Responsive Design: Works well on both desktop and mobile devices.
 
 Technologies Used:
@@ -33,9 +33,9 @@ Open the Application:
 
 Usage  
 <br>**Enter a City Name**: Type the name of the city you want to check the weather for in the input field.  
-<br>**Click the Search Icon**: Click the search icon or press "Enter" to fetch and display the weather information.  
+<br>**Click the Search Icon**: Click the search icon to fetch and display the weather information.  
 <br>**View Results**: The app will display the city name, temperature, weather description, and humidity.  
-<br>If the city name is invalid or the input is empty, an appropriate error message will be displayed to the user.  
+<br>If the city name is invalid, an appropriate error message will be displayed to the user.  
 
 
 Troubleshooting:
